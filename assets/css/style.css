@@ -2,11 +2,12 @@
 
 .info {
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
 }
 
-.nombre{
+#nombre{
     display: flex;
+    justify-content: center;
 }
 
 .imagen1{

@@ -1,0 +1,27 @@
+
+
+.info {
+    display: flex;
+    justify-content: space-around;
+}
+
+.nombre{
+    display: flex;
+}
+
+.imagen1{
+ display: flex;
+}
+
+
+footer{
+    background-color: rgb(127, 200, 255);
+}
+
+.correo{
+    text-align: center;
+}
+
+.conctactame {
+    text-align: center;
+}

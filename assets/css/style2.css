@@ -10,3 +10,15 @@
     justify-content: space-between;
 }
 
+
+.trabajos {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+
+.fila2{
+    display: flex;
+    justify-content: space-between;
+}
